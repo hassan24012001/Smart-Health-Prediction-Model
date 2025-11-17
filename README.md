@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img src="https://github.com/palashsinghai/Smart-Health-Prediction-Model/blob/main/heartbeat.png?raw=true" width=100 height=100 align="center">
 
 ## Smart Health Prediction
@@ -41,3 +42,6 @@ Run the beow command to send the request with some pre-popuated values -
 ```
 python request.py
 ```
+=======
+# Smart-Health-Prediction-Model
+>>>>>>> 391054d1f91255c8100be9e39c44cc6afe17cc85
